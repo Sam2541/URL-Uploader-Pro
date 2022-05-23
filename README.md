@@ -1,8 +1,5 @@
 ## X-URL-Uploader (Bot)
 ---
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sam2541/URL-Uploader-Pro)
-
 Telegram RoBot to Upload Links.
 
 **Features**:
